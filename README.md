@@ -1,5 +1,5 @@
 # seis-732-Assignment
-# BigQuery Data Product (working title)
+# San-Francisco-bikeshare-imbalance
 purpose: individual data -product project (P0-P4). 
 
 
